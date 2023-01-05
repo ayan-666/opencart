@@ -1,0 +1,34 @@
+13:34:10.682 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+13:34:10.991 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 80:c5:f2:ff:fe:ae:45:5f (auto-detected)
+13:34:11.064 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+13:34:11.065 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+13:34:11.065 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2ed3b044
+13:34:11.098 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+13:34:11.098 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+13:34:11.098 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+13:34:11.098 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+13:34:12.722 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+13:34:12.884 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xdd06415b600cb6a5
+13:34:13.022 [main] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+13:34:13.059 [main] INFO  testCases.TC_001_AccountRegistration -  Starting TC_001_AccountRegistration 
+13:34:15.095 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+13:34:15.342 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account 
+13:34:16.567 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Register 
+13:34:16.682 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+13:34:16.786 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+13:34:16.908 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+13:34:17.004 [main] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+13:34:17.088 [main] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+13:34:17.160 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+13:34:17.206 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+13:34:17.209 [main] INFO  testCases.TC_001_AccountRegistration -  Finished TC_001_AccountRegistration 
+13:34:18.739 [main] INFO  testCases.TC_002_Login - Launched Chrome Browser
+13:34:18.745 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+13:34:20.037 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:34:20.251 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:34:20.774 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:34:20.895 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:34:20.988 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:34:21.060 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:34:21.128 [main] INFO  testCases.TC_002_Login - Login Success 
+13:34:21.128 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
